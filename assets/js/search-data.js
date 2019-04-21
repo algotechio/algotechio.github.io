@@ -1,6 +1,6 @@
 var store = [{
-        "title": "Edge Case: Many Categories",
-        "excerpt":"This post has many categories. ","categories": ["aciform","antiquarianism","arrangement","asmodeus","broder","buying","championship","chastening","disinclination","disinfection"],
-        "tags": ["categories","edge case"],
-        "url": "https://blog.algotech.io/aciform/antiquarianism/arrangement/asmodeus/broder/buying/championship/chastening/disinclination/disinfection/edge-case-many-categories/"
+        "title": "Future Post",
+        "excerpt":"First post to be written. ","categories": ["to be defined"],
+        "tags": ["no tags yet"],
+        "url": "https://blog.algotech.io/to%20be%20defined/no-posts-yet/"
       }]
